@@ -1,0 +1,9 @@
+{
+    "1": {
+        "hotel_id": 1,
+        "name": "Grand Hotel",
+        "location": "New York",
+        "rooms": 100,
+        "reservations": []
+    }
+}
