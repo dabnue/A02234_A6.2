@@ -1,0 +1,13 @@
+PS C:\Users\luisd> cd "c:/Users/luisd/Desktop/Posgrado IMA/Pruebas de seguridad"
+PS C:\Users\luisd\Desktop\Posgrado IMA\Pruebas de seguridad> coverage run -m unittest hotel.py
+........
+----------------------------------------------------------------------
+Ran 8 tests in 0.053s
+
+OK
+PS C:\Users\luisd\Desktop\Posgrado IMA\Pruebas de seguridad> coverage report -m
+Name       Stmts   Miss  Cover   Missing
+----------------------------------------
+hotel.py     162     22    86%   19, 27-29, 34-36, 67, 75-77, 82-84, 114, 122-124, 129-131, 190
+----------------------------------------
+TOTAL        162     22    86%
